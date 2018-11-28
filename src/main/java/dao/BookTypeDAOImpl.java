@@ -9,9 +9,6 @@ import mapping.BookTypeDAO;
 
 /**
  * 实现图书类型数据访问
- *实现图书类型数据访问实现图书类型数据访问实现图书类型数据访问实现图书类型数据访问
- * 实现图书类型数据访问实现图书类型数据访问实现图书类型数据访问实现图书类型数据访问
- * 实现图书类型数据访问实现图书类型数据访问实现图书类型数据访问实现图书类型数据访问
  */
 public class BookTypeDAOImpl implements BookTypeDAO {
 
